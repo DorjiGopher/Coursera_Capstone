@@ -1,0 +1,12 @@
+Where is a recommended place to open a Mexico Food Restaurant in Los Angels city? 
+
+Intro:
+There are lots of Latino residents live in California, especially in Los Angels city. From an economics perspective, for both demand aspect and supply aspect, Los Angels will be a good market to open an idle Mexico restaurant with authentic Mexican foods. 
+I would like to use data science and machine learning skill to explore this question and address it to people who are interested in it. 
+
+Data Methodology:
+Firstly, following the instruction, I will leverage the Foursquare location datal, mainly focusing on Venues data point. 
+
+Secondly, I would generate Los Angles geojson data which includes neighborhoods names of Los Angles and their coordinate data point(Longitude, Latitude). Data is from University of Southern California database. 
+
+Thildly, for data science method, I will use K-Means clustering method.  
